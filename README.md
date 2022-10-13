@@ -1,2 +1,31 @@
 # kenny-learn-python-data-mining
 学习python数据分析与数据挖掘
+# <a href="https://github.com/wqw547243068/Python-learning">好玩儿的Python：从数据挖掘到深度学习</a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
+# <a href=""></a>
