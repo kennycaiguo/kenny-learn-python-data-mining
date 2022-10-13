@@ -6,7 +6,7 @@
 # <a href="https://github.com/jimenbian/DataMining">My data mining code！</a>
 # <a href="https://github.com/luanshiyinyang/DataMining">Data Analysis and Mining(数据分析与挖掘)</a>
 # <a href="https://github.com/yourtion/DataminingGuideBook-Codes">《面向程序员的数据挖掘指南》源码</a>
-# <a href=""></a>
+# <a href="https://github.com/eclarson/DataMiningNotebooks">This is a collection of iPython notebooks from my course on data mining.</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
