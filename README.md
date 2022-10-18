@@ -9,7 +9,7 @@
 # <a href="https://github.com/eclarson/DataMiningNotebooks">This is a collection of iPython notebooks from my course on data mining.</a>
 # <a href="https://github.com/bytetopia/python_for_data_analysis">利用Python进行数据分析 笔记</a>
 # <a href="https://github.com/bytetopia/python_for_data_analysis/tree/master/notes">My notes for Python for Data Analysis</a>
-# <a href=""></a>
+# <a href="https://gitee.com/judaihyper/Data_mining">《Python金融大数据挖掘与分析全流程详解》学习笔记及代码</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
